@@ -5,4 +5,4 @@ def adder(mylist):
     total+=i # Add the current element to the result
   print(total) # Display the total
 
-adder(mynums) # Call the function
+adder(mynums) 
